@@ -1,0 +1,1 @@
+Clonez ce repository et ajoutez-y webpack comme expliqué dans l'activité.
